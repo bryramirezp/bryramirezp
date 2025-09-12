@@ -80,11 +80,6 @@ A continuación se presentan algunos de los proyectos que demuestran mi experien
 - El sistema se compuso de cuatro servicios independientes: un frontend SPA (Single Page Application), un microservicio de Productos (Flask, XML), un microservicio de Pedidos (Flask, JSON) y un microservicio de Facturas (Flask, XML con XSLT)
 - **Resultado Objetivo:** Se logró un sistema completamente funcional donde el frontend orquesta llamadas asíncronas a los diferentes microservicios, gestiona un carrito de compras y genera facturas, con todos los pedidos persistiendo en una base de datos MariaDB. El proyecto validó la capacidad de integrar servicios que consumen y producen diferentes formatos de datos (JSON y XML)
 
-## 📊 Estadísticas de GitHub
-
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
 ## 📫 Contacto
 
